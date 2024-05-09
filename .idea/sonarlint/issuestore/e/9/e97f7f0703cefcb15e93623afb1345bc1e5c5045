@@ -1,0 +1,8 @@
+
+L	java:S106
+"+Replace this use of System.out by a logger.( ë‡óúÿÿÿÿ8í¶Êýõ1
+N
+java:S3011",This accessibility update should be removed.(—³èÝýÿÿÿÿ8ï¶Êýõ1
+N
+java:S3011",This accessibility bypass should be removed.(ö¨õÏþÿÿÿÿ8ð¶Êýõ1
+L	java:S106"+Replace this use of System.out by a logger.( ë‡óúÿÿÿÿ8ñ¶Êýõ1
