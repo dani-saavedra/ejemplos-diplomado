@@ -1,8 +1,8 @@
 
-L	java:S106
-"+Replace this use of System.out by a logger.( ë‡óúÿÿÿÿ8í¶Êýõ1
-N
-java:S3011",This accessibility update should be removed.(—³èÝýÿÿÿÿ8ï¶Êýõ1
-N
-java:S3011",This accessibility bypass should be removed.(ö¨õÏþÿÿÿÿ8ð¶Êýõ1
-L	java:S106"+Replace this use of System.out by a logger.( ë‡óúÿÿÿÿ8ñ¶Êýõ1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(„Ùò¸úÿÿÿÿ8žðŠþõ1
+“
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.NoSuchFieldException', as it cannot be thrown from method's body.(ä—è8¦£Žþõ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¤áçù8ªðŠþõ1
+I
+java:S3011",This accessibility update should be removed.(”ÝÙ®8¿£Žþõ1

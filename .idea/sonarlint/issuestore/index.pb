@@ -99,3 +99,16 @@ U
 %src/main/java/reflection/Persona.java,7/2/721f644e105732b9a969dabec16b7ab749687e6b
 R
 "src/main/java/reflection/Main.java,e/9/e97f7f0703cefcb15e93623afb1345bc1e5c5045
+U
+%src/main/java/reflection/Service.java,d/8/d8874a46227ff51004b9c07823500cb1a8f2eea1
+T
+$src/main/java/reflection/Logica.java,5/5/5595db1337b80e15cc2312305c7b32e161e0b016
+X
+(src/main/java/reflection/OtraLogica.java,5/5/55473a4b1cc008f56c41415c6f31f176da1869b6
+a
+1src/main/java/patrones/creacionales/Database.java,a/1/a1378a57583faf0aedd731e6db5f9a049ed4d754
+]
+-src/main/java/patrones/creacionales/Main.java,5/0/50b6eed3feed24e5ac1b51c838e722e98b080137
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
