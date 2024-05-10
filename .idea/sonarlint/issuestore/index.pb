@@ -112,3 +112,23 @@ a
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+m
+=src/main/java/patrones/creacionales/abstractfactory/Main.java,1/7/17eb42f30fbc3958c841afc20b30517d4956248a
+m
+=src/main/java/patrones/creacionales/abstractfactory/Sofa.java,9/9/99d905ecd64f50f950859ef895db67c80a8dd419
+n
+>src/main/java/patrones/creacionales/abstractfactory/Silla.java,6/5/6544db7255d544c370794ed116d1d57d4f10b45f
+u
+Esrc/main/java/patrones/creacionales/abstractfactory/SillaModerna.java,d/3/d3b5e4a1db860a3900d5d76fb4eca50a0cb74651
+x
+Hsrc/main/java/patrones/creacionales/abstractfactory/SillaVictoriana.java,0/d/0ddd4fc7f0531b4552e652a293c901eb6f007a74
+t
+Dsrc/main/java/patrones/creacionales/abstractfactory/SofaModerna.java,6/8/684ee1eec93f28cddc95a0039814840a3ab7a410
+w
+Gsrc/main/java/patrones/creacionales/abstractfactory/SofaVictoriana.java,f/f/fffb37d52db315a8d6dae86a5e02be53e45a9071
+s
+Csrc/main/java/patrones/creacionales/abstractfactory/Decoracion.java,8/2/8207fe991387b9a6bd50826ae92c667216609a8d
+z
+Jsrc/main/java/patrones/creacionales/abstractfactory/DecoracionModerna.java,4/9/49dccf1c5c6d430cf945c00728b9331d12ac4914
+}
+Msrc/main/java/patrones/creacionales/abstractfactory/DecoracionVictoriana.java,e/0/e01a5ef450b9f4f25b869b00466a2d236ed40e59

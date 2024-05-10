@@ -1,4 +1,4 @@
-package patrones.proxy;
+package patrones.structural.proxy;
 
 public class ProxySabana implements Internet {
 

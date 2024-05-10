@@ -1,4 +1,4 @@
-package patrones.proxy;
+package patrones.structural.proxy;
 
 public class InternetPublico implements Internet {
 

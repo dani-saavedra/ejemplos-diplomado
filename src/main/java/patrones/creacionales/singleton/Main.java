@@ -1,4 +1,4 @@
-package patrones.creacionales;
+package patrones.creacionales.singleton;
 
 public class Main {
 

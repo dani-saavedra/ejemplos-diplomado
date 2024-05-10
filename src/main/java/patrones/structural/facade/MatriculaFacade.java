@@ -1,4 +1,4 @@
-package patrones.facade;
+package patrones.structural.facade;
 
 public class MatriculaFacade {
 
